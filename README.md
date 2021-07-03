@@ -12,4 +12,4 @@ springboot-websocket-example
 
 ## 参考资料
 
-![参考资料](https://www.youtube.com/watch?v=U4lqTmFmbAM&list=PLzJCu-vb_SJ_WCDUid6pjqOchvWzfVxQI&index=1)
+[参考资料](https://www.youtube.com/watch?v=U4lqTmFmbAM&list=PLzJCu-vb_SJ_WCDUid6pjqOchvWzfVxQI&index=1)
